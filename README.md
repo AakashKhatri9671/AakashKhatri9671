@@ -23,4 +23,25 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashkhatri9671&show_icons=true&locale=en" alt="aakashkhatri9671" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashkhatri9671&" alt="aakashkhatri9671" /></p>
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AakashKhatri9671&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aakash Khatr's Github Stats">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AakashKhatri9671&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AakashKhatri9671&theme=onedark" alt="AakashKhatri9671" />
+</p>
+
+#### Contribution Graph
+[![Aakash khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=AakashKhatri9671&theme=react-dark)](https://github.com/AakashKhatri9671/github-readme-activity-graph)
+
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg?username=AakashKhatri9671&theme=react-dark" alt="snake"></center>
+</p>
