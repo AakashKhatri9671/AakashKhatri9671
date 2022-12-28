@@ -24,6 +24,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashkhatri9671&show_icons=true&locale=en" alt="aakashkhatri9671" /></p>
 
 #### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashKhatri9671)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <a href="https://github.com/AakashKhatri9671/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AakashKhatri9671&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aakash Khatr's Github Stats">
 </a>
