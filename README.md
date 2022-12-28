@@ -27,15 +27,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashKhatri9671)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-<a href="https://github.com/AakashKhatri9671/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AakashKhatri9671&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aakash Khatr's Github Stats">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AakashKhatri9671&layout=compact&theme=onedark" />
-</a>
 <br />
 <br />
 <p align="center">
