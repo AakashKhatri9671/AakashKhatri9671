@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashkhatri9671&label=Profile%20views&color=0e75b6&style=flat" alt="aakashkhatri9671" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashkhatri9671" alt="aakashkhatri9671" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=aakashkhatri9671" alt="aakashkhatri9671" /></p>
 
 - 🔭 I’m currently working on [Bingo Industries Web Project](https://www.bingoindustries.com.au/)
 
